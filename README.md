@@ -1,15 +1,8 @@
 # Forest Biomass Estimation from GEDI & Sentinel Data
 
 **Description:** A set of Jupyter notebooks for estimating Aboveground Biomass Density (AGBD) using GEDI LiDAR and Sentinel satellite data.
+
 ![Example Output](example_output.png)
-
-
-
-
-
-
-
-ChatGPT fragen
 
 ---
 
